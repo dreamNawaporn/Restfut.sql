@@ -22,3 +22,4 @@ Restaurant.create =(newrestaurant, result) =>{
         result(null, {id: res.id, ...newRestaurant });
     });
 }
+//ค่อยทำ
